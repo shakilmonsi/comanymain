@@ -27,6 +27,14 @@ const AuthProvider = ({ children }) => {
     //  golr setup   
     //  golr setup   
     //  golr setup   
+    //  golr setup   
+    //  golr setup   
+    //  golr setup   
+    //  golr setup   
+    //  golr setup   
+    //  golr setup   
+    //  golr setup   
+    //  golr setup   
 
  
     const googleSignIn = () => {
